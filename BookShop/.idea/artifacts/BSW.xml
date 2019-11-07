@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="BSW">
+    <output-path>$PROJECT_DIR$/out/artifacts/BSW</output-path>
+    <root id="archive" name="BSW.war">
+      <element id="dir-copy" path="$PROJECT_DIR$/web" />
+    </root>
+  </artifact>
+</component>
